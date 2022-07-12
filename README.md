@@ -36,5 +36,5 @@
 
 
 
---C:\SFML-2.5.1\bin Copy all the dll files located in the .\x64\Debug folder of the project
+--Copy all *.dll files located in the C:\SFML-2.5.1\bin folder to the project's .\x64\Debug
 ```
